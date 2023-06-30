@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciafdezc&show_icons=true&bg_color=DEG,321b4f,0d0915&text_color=ffffff&icon_color=ffcef3&title_color=d3affa&&border_radius=10&&hide_border=true&rank_icon=github)
 
-![Snake animation](https://github.com/aliciafdezc/aliciafdezc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aliciafdezc/aliciafdezc/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 ## ☎ Contact
 
