@@ -1,5 +1,5 @@
 ## 👋 Hi there, my name is Alicia!
-![tarjeta](https://github.com/aliciafdezc/aliciafdezc/assets/113903151/041ce36f-a44f-4534-a7d2-33397ce8f010)
+![tarjeta2](https://github.com/aliciafdezc/aliciafdezc/assets/113903151/1e5823b2-0fb4-46c4-8371-aa17e975f13f)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciafdezc&show_icons=true&bg_color=DEG,321b4f,0d0915&text_color=ffffff&icon_color=ffcef3&title_color=d3affa&&border_radius=10&&hide_border=true&rank_icon=github)
 
